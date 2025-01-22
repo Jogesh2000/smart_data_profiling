@@ -4,3 +4,6 @@ Step 1: Use the configuration file to configure your datasets. Add any number of
 Step 2: Set the right path to the config file in the python code where the code is reading information from the config file
 Step 3: Enter your database parameters to connect to DB where the data tables are present
 Step 4: Configure the path where the profiling output files in html format need to be generated
+Step 5: Run the .py file
+
+Profiling reports will be generated in html format for each dataset and its attributes in the output path provided in the code
